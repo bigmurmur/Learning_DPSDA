@@ -1,0 +1,47 @@
+01/17/2025 17:31:55 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/17/2025 17:31:58 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/17/2025 17:31:59 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/17/2025 17:31:59 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/17/2025 17:31:59 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label cookie
+01/17/2025 17:31:59 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label cookie
+01/17/2025 17:32:43 PM [pe] [INFO ]  Created 100 samples
+01/17/2025 17:32:43 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label cookie
+01/17/2025 17:32:43 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label cookie
+01/17/2025 17:32:43 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label doudou
+01/17/2025 17:32:43 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label doudou
+01/17/2025 17:33:27 PM [pe] [INFO ]  Created 100 samples
+01/17/2025 17:33:27 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label doudou
+01/17/2025 17:33:27 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label doudou
+01/17/2025 17:33:28 PM [pe] [INFO ]  Computing FID (Inception)
+01/17/2025 17:33:28 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/17/2025 17:33:29 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/17/2025 17:33:37 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/17/2025 17:33:37 PM [pe] [INFO ]  Saving all images
+01/17/2025 17:33:37 PM [pe] [INFO ]  Finished saving all images
+01/17/2025 17:33:37 PM [pe] [INFO ]  Iteration: 0
+01/17/2025 17:33:37 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 301.05435996
+01/17/2025 17:33:37 PM [pe] [INFO ]  PE iteration 1
+01/17/2025 17:33:37 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/17/2025 17:33:37 PM [pe] [INFO ]  Label 0
+01/17/2025 17:33:37 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/17/2025 17:33:37 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/17/2025 17:33:37 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/17/2025 17:33:37 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/17/2025 17:34:21 PM [pe] [INFO ]  Created 100 samples
+01/17/2025 17:34:21 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/17/2025 17:34:21 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:34:22 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:34:22 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/17/2025 17:34:22 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/17/2025 17:35:06 PM [pe] [INFO ]  Created 100 samples
+01/17/2025 17:35:06 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/17/2025 17:35:06 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:35:06 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:35:06 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/17/2025 17:35:06 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/17/2025 17:35:50 PM [pe] [INFO ]  Created 100 samples
+01/17/2025 17:35:50 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/17/2025 17:35:50 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:35:51 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/17/2025 17:35:51 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/17/2025 17:35:51 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
