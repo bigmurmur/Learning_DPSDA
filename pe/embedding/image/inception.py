@@ -1,4 +1,5 @@
 import tempfile
+import os
 import numpy as np
 import torch
 import pandas as pd
@@ -34,9 +35,11 @@ class Inception(Embedding):
         :type batch_size: int, optional
         """
         super().__init__()
-        self._temp_folder = tempfile.TemporaryDirectory()
+        # self._temp_folder = tempfile.TemporaryDirectory()
+        self._temp_folder = os.path.expanduser("~/.torch/datasets/")
         self._device = device
-        self._inception = InceptionV3W(path=self._temp_folder.name, download=True, resize_inside=False).to(device)
+        # self._inception = InceptionV3W(path=self._temp_folder.name, download=True, resize_inside=False).to(device)
+        self._inception = InceptionV3W(path=self._temp_folder, download=True, resize_inside=False).to(device)
         self._resize_pre = make_resizer(
             library="PIL",
             quantize_after=False,
