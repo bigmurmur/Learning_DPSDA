@@ -211,6 +211,7 @@ dependencies:
   - openjpeg=2.5.2=h488ebb8_0
   - openmpi=5.0.5=h9a79eee_101
   - openssl=3.4.0=hb9d3cd8_0
+  - packaging=24.2=py310h06a4308_0
   - parso=0.8.4=pyhd8ed1ab_0
   - pcre2=10.44=hba22ea6_2
   - pexpect=4.9.0=pyhd8ed1ab_0
@@ -367,7 +368,6 @@ dependencies:
       - opencv-python-headless==4.10.0.84
       - opt-einsum==3.4.0
       - outdated==0.2.2
-      - packaging==24.2
       - pandas==2.2.3
       - peft==0.7.0
       - pillow==11.1.0
