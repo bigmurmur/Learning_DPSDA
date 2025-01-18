@@ -19,19 +19,26 @@ def search(syn_embedding, priv_embedding, num_nearest_neighbors, mode):
     :return: The distances and indices of the nearest neighbors
     :rtype: tuple[np.ndarray, np.ndarray]
     """
-    try:
-        execution_logger.info("Using faiss backend for nearest neighbor search")
-        from pe.histogram.nearest_neighbor_backend.faiss import search
 
-        return search(syn_embedding, priv_embedding, num_nearest_neighbors, mode)
-    except Exception as e:
-        execution_logger.error(f"Error using faiss backend for nearest neighbor search: {e}")
-        execution_logger.error(traceback.format_exc())
-        execution_logger.info(
-            "Please check the installation of the Faiss library: "
-            "https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss"
-        )
-        execution_logger.info("Using sklearn backend for nearest neighbor search")
-        from pe.histogram.nearest_neighbor_backend.sklearn import search
+    # Since there are some problems with faiss, we directly use sklearn.
+#    try:
+#        execution_logger.info("Using faiss backend for nearest neighbor search")
+#        from pe.histogram.nearest_neighbor_backend.faiss import search
+#
+#        return search(syn_embedding, priv_embedding, num_nearest_neighbors, mode)
+#    except Exception as e:
+#        execution_logger.error(f"Error using faiss backend for nearest neighbor search: {e}")
+#        execution_logger.error(traceback.format_exc())
+#        execution_logger.info(
+#            "Please check the installation of the Faiss library: "
+#            "https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss"
+#        )
+#        execution_logger.info("Using sklearn backend for nearest neighbor search")
+#        from pe.histogram.nearest_neighbor_backend.sklearn import search
+#
+#        return search(syn_embedding, priv_embedding, num_nearest_neighbors, mode)
 
-        return search(syn_embedding, priv_embedding, num_nearest_neighbors, mode)
+    execution_logger.info("Using sklearn backend for nearest neighbor search")
+    execution_logger.info("The author could not execute faiss properly, so we use sklearn.")
+    from pe.histogram.nearest_neighbor_backend.sklearn import search
+    return search(syn_embedding, priv_embedding, num_nearest_neighbors, mode)
