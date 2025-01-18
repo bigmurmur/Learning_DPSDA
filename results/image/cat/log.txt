@@ -62,3 +62,792 @@
 01/18/2025 17:31:14 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label cookie
 01/18/2025 17:31:14 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label doudou
 01/18/2025 17:31:14 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label doudou
+01/18/2025 17:31:59 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 17:31:59 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label doudou
+01/18/2025 17:31:59 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label doudou
+01/18/2025 17:31:59 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 17:31:59 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:32:00 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:32:03 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 17:32:03 PM [pe] [INFO ]  Saving all images
+01/18/2025 17:32:03 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 17:32:03 PM [pe] [INFO ]  Iteration: 0
+01/18/2025 17:32:03 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 316.59816712
+01/18/2025 17:32:03 PM [pe] [INFO ]  PE iteration 1
+01/18/2025 17:32:03 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 17:32:03 PM [pe] [INFO ]  Label 0
+01/18/2025 17:32:03 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 17:32:03 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 17:32:03 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 17:32:03 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 17:32:47 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 17:32:47 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 17:32:47 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 17:32:48 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 17:32:48 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 17:32:48 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 17:33:31 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 17:33:32 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 17:33:32 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 17:33:32 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 17:33:32 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 17:33:32 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 17:58:19 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:58:23 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:58:23 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/18/2025 17:58:23 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 17:58:23 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label cookie
+01/18/2025 17:58:23 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label cookie
+01/18/2025 17:59:07 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 17:59:07 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label cookie
+01/18/2025 17:59:07 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label cookie
+01/18/2025 17:59:07 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label doudou
+01/18/2025 17:59:07 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label doudou
+01/18/2025 17:59:52 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 17:59:52 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label doudou
+01/18/2025 17:59:52 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label doudou
+01/18/2025 17:59:52 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 17:59:52 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:59:54 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 17:59:56 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 17:59:56 PM [pe] [INFO ]  Saving all images
+01/18/2025 17:59:56 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 17:59:56 PM [pe] [INFO ]  Iteration: 0
+01/18/2025 17:59:56 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 312.81586306
+01/18/2025 17:59:56 PM [pe] [INFO ]  PE iteration 1
+01/18/2025 17:59:56 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 17:59:56 PM [pe] [INFO ]  Label 0
+01/18/2025 17:59:56 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 17:59:56 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 17:59:56 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 17:59:56 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:00:40 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:00:40 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:00:40 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:00:41 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:00:41 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:00:41 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:01:24 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:01:24 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:01:24 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:01:25 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:01:25 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:01:25 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:02:09 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:02:09 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:02:09 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:02:10 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:02:10 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:02:10 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:02:53 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:02:53 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:02:53 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:02:54 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:02:54 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:02:54 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:03:38 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:03:38 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:03:38 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:03:39 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:03:39 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:03:39 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:04:22 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:04:22 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:04:22 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:04:23 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:04:23 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:04:23 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:05:07 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:05:07 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:05:07 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:05:08 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:05:08 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:05:08 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:05:51 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:05:51 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:05:51 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:05:52 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:05:52 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 18:05:52 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 18:05:52 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 18:05:52 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 18:05:52 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 18:05:52 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:05:52 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 18:05:52 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:05:52 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:06:36 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:06:36 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:06:36 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 18:06:36 PM [pe] [INFO ]  Label 1
+01/18/2025 18:06:36 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:06:36 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 18:06:36 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:06:36 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:07:20 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:07:20 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:07:20 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:07:20 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:07:20 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:07:20 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:20:30 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:20:34 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:20:34 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/18/2025 18:20:34 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 18:20:34 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label cookie
+01/18/2025 18:20:34 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label cookie
+01/18/2025 18:21:18 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:21:18 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label cookie
+01/18/2025 18:21:18 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label cookie
+01/18/2025 18:21:18 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label doudou
+01/18/2025 18:21:18 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label doudou
+01/18/2025 18:22:03 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:22:03 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label doudou
+01/18/2025 18:22:03 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label doudou
+01/18/2025 18:22:03 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 18:22:03 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:22:05 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:22:07 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 18:22:07 PM [pe] [INFO ]  Saving all images
+01/18/2025 18:22:07 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 18:22:07 PM [pe] [INFO ]  Iteration: 0
+01/18/2025 18:22:07 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 312.90818538
+01/18/2025 18:22:07 PM [pe] [INFO ]  PE iteration 1
+01/18/2025 18:22:07 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 18:22:07 PM [pe] [INFO ]  Label 0
+01/18/2025 18:22:07 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:22:07 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 18:22:07 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:22:07 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:22:51 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:22:51 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:22:51 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:22:52 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:22:52 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:22:52 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:23:35 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:23:35 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:23:35 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:23:36 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:23:36 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:23:36 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:24:20 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:24:20 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:24:20 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:24:21 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:24:21 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:24:21 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:25:04 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:25:04 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:25:04 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:25:05 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:25:05 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:25:05 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:25:49 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:25:49 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:25:49 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:25:50 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:25:50 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:25:50 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:26:33 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:26:33 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:26:33 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:26:34 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:26:34 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:26:34 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:27:18 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:27:18 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:27:18 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:27:19 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:27:19 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:27:19 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:28:02 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:28:02 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:28:02 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:28:03 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:28:03 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 18:28:03 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 18:28:03 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 18:28:03 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 18:28:03 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 18:28:03 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:28:03 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 18:28:03 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:28:03 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:28:47 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:28:47 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:28:47 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 18:28:47 PM [pe] [INFO ]  Label 1
+01/18/2025 18:28:47 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:28:47 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 18:28:47 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:28:47 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:29:31 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:29:31 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:29:31 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:29:32 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:29:32 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:29:32 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:30:15 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:30:15 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:30:15 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:30:16 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:30:16 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:30:16 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:31:00 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:31:00 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:31:00 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:31:01 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:31:01 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:31:01 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:31:44 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:31:44 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:31:44 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:31:45 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:31:45 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:31:45 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:32:29 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:32:29 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:32:29 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:32:30 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:32:30 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:32:30 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:33:13 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:33:13 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:33:13 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:33:14 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:33:14 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:33:14 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:33:58 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:33:58 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:33:58 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:33:59 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:33:59 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:33:59 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:34:42 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:34:42 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:34:42 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:34:43 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:34:43 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 18:34:43 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 18:34:43 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 18:34:43 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 18:34:43 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 18:34:43 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:34:43 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 18:34:43 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:34:43 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 18:35:27 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:35:27 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:35:27 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 18:35:27 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 18:35:27 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:35:29 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 18:35:31 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 18:35:31 PM [pe] [INFO ]  Saving all images
+01/18/2025 18:35:31 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 18:35:31 PM [pe] [INFO ]  Iteration: 1
+01/18/2025 18:35:31 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 262.36846010
+01/18/2025 18:35:31 PM [pe] [INFO ]  PE iteration 2
+01/18/2025 18:35:31 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 18:35:31 PM [pe] [INFO ]  Label 0
+01/18/2025 18:35:31 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:35:31 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 18:35:31 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:35:31 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:36:14 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:36:14 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:36:14 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:36:15 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:36:15 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:36:15 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:36:58 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:36:58 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:36:58 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:36:59 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:36:59 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:36:59 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:37:41 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:37:41 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:37:41 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:37:42 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:37:42 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:37:42 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:38:25 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:38:25 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:38:25 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:38:26 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:38:26 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:38:26 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:39:09 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:39:09 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:39:09 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:39:09 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:39:09 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:39:09 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:39:52 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:39:52 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:39:52 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:39:53 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:39:53 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:39:53 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:40:36 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:40:36 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:40:36 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:40:37 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:40:37 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:40:37 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:41:20 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 18:41:20 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 18:41:20 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 18:41:20 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 18:41:20 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 18:41:20 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:41:20 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 18:42:03 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 18:42:03 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 18:42:03 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 18:42:03 PM [pe] [INFO ]  Label 1
+01/18/2025 18:42:03 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 18:42:03 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 18:42:03 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 18:42:03 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:15:32 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:15:35 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:15:35 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/18/2025 19:15:35 PM [pe] [INFO ]  Loaded checkpoint from results/image/cat/checkpoint, iteration=1
+01/18/2025 19:15:35 PM [pe] [INFO ]  PE iteration 2
+01/18/2025 19:15:35 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 19:15:35 PM [pe] [INFO ]  Label 0
+01/18/2025 19:15:35 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:15:35 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:15:35 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:15:35 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:15:50 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:15:54 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:15:54 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/18/2025 19:15:54 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 19:15:54 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label cookie
+01/18/2025 19:15:54 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label cookie
+01/18/2025 19:16:38 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:16:38 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label cookie
+01/18/2025 19:16:38 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label cookie
+01/18/2025 19:16:38 PM [pe] [INFO ]  Population: generating 100*1 initial synthetic samples for label doudou
+01/18/2025 19:16:38 PM [pe] [INFO ]  RANDOM API: creating 100 samples for label doudou
+01/18/2025 19:17:23 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:17:23 PM [pe] [INFO ]  RANDOM API: finished creating 100 samples for label doudou
+01/18/2025 19:17:23 PM [pe] [INFO ]  Population: finished generating 100*1 initial synthetic samples for label doudou
+01/18/2025 19:17:23 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 19:17:23 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:17:25 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:17:27 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 19:17:27 PM [pe] [INFO ]  Saving all images
+01/18/2025 19:17:27 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 19:17:27 PM [pe] [INFO ]  Iteration: 0
+01/18/2025 19:17:27 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 305.66206451
+01/18/2025 19:17:27 PM [pe] [INFO ]  PE iteration 1
+01/18/2025 19:17:27 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 19:17:27 PM [pe] [INFO ]  Label 0
+01/18/2025 19:17:27 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:17:27 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:17:27 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:17:27 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:18:11 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:18:11 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:18:11 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:18:12 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:18:12 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:18:12 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:18:55 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:18:55 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:18:55 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:18:56 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:18:56 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:18:56 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:19:40 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:19:40 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:19:40 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:19:41 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:19:41 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:19:41 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:20:24 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:20:24 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:20:24 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:20:25 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:20:25 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:20:25 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:21:09 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:21:09 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:21:09 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:21:10 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:21:10 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:21:10 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:21:53 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:21:53 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:21:53 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:21:54 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:21:54 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:21:54 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:22:38 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:22:38 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:22:38 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:22:39 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:22:39 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:22:39 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:23:23 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:23:23 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:23:23 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:23:23 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:23:23 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 19:23:23 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 19:23:23 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 19:23:23 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 19:23:23 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 19:23:24 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:23:24 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 19:23:24 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:23:24 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:24:07 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:24:07 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:24:07 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 19:24:07 PM [pe] [INFO ]  Label 1
+01/18/2025 19:24:07 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:24:07 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:24:07 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:24:07 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:24:51 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:24:51 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:24:51 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:24:52 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:24:52 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:24:52 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:25:36 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:25:36 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:25:36 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:25:37 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:25:37 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:25:37 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:26:20 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:26:20 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:26:20 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:26:21 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:26:21 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:26:21 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:27:05 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:27:05 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:27:05 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:27:06 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:27:06 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:27:06 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:27:50 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:27:50 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:27:50 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:27:51 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:27:51 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:27:51 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:28:34 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:28:34 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:28:34 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:28:35 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:28:35 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:28:35 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:29:19 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:29:19 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:29:19 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:29:20 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:29:20 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:29:20 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:30:04 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:30:04 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:30:04 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:30:05 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:30:05 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 19:30:05 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 19:30:05 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 19:30:05 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 19:30:05 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 19:30:05 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:30:05 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 19:30:05 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:30:05 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=2, timestep_respacing=100, iteration=0
+01/18/2025 19:30:48 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:30:48 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:30:48 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 19:30:48 PM [pe] [INFO ]  Computing FID (Inception)
+01/18/2025 19:30:48 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:30:50 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:30:52 PM [pe] [INFO ]  Finished computing FID (Inception)
+01/18/2025 19:30:52 PM [pe] [INFO ]  Saving all images
+01/18/2025 19:30:53 PM [pe] [INFO ]  Finished saving all images
+01/18/2025 19:30:53 PM [pe] [INFO ]  Iteration: 1
+01/18/2025 19:30:53 PM [pe] [INFO ]  	fid_PE.EMBEDDING.Inception: 262.66170483
+01/18/2025 19:30:53 PM [pe] [INFO ]  PE iteration 2
+01/18/2025 19:30:53 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 19:30:53 PM [pe] [INFO ]  Label 0
+01/18/2025 19:30:53 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:30:53 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:30:53 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:30:53 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:31:36 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:31:36 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:31:36 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:31:36 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:31:36 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:31:36 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:32:19 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:32:19 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:32:19 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:32:20 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:32:20 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:32:20 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:33:03 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:33:03 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:33:03 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:33:04 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:33:04 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:33:04 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:33:47 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:33:47 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:33:47 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:33:48 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:33:48 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:33:48 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:34:31 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:34:31 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:34:31 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:34:31 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:34:31 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:34:31 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:35:14 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:35:14 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:35:14 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:35:15 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:35:15 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:35:15 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:35:58 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:35:58 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:35:58 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:35:59 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:35:59 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:35:59 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:36:42 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:36:42 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:36:42 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:36:43 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:36:43 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 19:36:43 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 19:36:43 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 19:36:43 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 19:36:43 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 19:36:43 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:36:43 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 19:36:43 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:36:43 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:37:26 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:37:26 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:37:26 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 19:37:26 PM [pe] [INFO ]  Label 1
+01/18/2025 19:37:26 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:37:26 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:37:26 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:37:26 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:38:09 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:38:09 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:38:09 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:38:09 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:38:09 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:38:09 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:38:52 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:38:52 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:38:52 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:38:53 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:38:53 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:38:53 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:39:36 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:39:36 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:39:36 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:39:37 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:39:37 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:39:37 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:56:25 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:56:28 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 200/200 samples
+01/18/2025 19:56:29 PM [pe] [INFO ]  DP epsilon=7.890076498916031, delta=0.001, noise_multiplier=2, num_iterations=17.
+01/18/2025 19:56:29 PM [pe] [INFO ]  Loaded checkpoint from results/image/cat/checkpoint, iteration=1
+01/18/2025 19:56:29 PM [pe] [INFO ]  PE iteration 2
+01/18/2025 19:56:29 PM [pe] [WARNI]  fraction_per_label_id is not provided. Assuming the fraction of label ids in private data is public information.
+01/18/2025 19:56:29 PM [pe] [INFO ]  Label 0
+01/18/2025 19:56:29 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 19:56:29 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 19:56:29 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:56:29 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:57:14 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:57:14 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:57:14 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:57:15 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:57:15 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:57:15 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:58:00 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:58:00 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:58:00 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:58:01 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:58:01 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:58:01 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:58:46 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:58:46 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:58:46 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:58:47 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:58:47 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:58:47 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 19:59:32 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 19:59:32 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 19:59:32 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:59:33 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 19:59:33 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 19:59:33 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:00:18 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:00:18 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:00:18 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:00:19 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:00:19 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:00:19 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:01:04 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:01:04 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:01:04 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:01:05 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:01:05 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:01:05 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:01:51 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:01:51 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:01:51 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:01:51 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:01:51 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:01:51 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:02:37 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:02:37 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:02:37 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:02:38 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:02:38 PM [pe] [INFO ]  Using faiss backend for nearest neighbor search
+01/18/2025 20:02:38 PM [pe] [ERROR]  Error using faiss backend for nearest neighbor search: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+01/18/2025 20:02:38 PM [pe] [ERROR]  Traceback (most recent call last):
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/auto.py", line 24, in search
+    from pe.histogram.nearest_neighbor_backend.faiss import search
+  File "/home/qi/bigmurmur/Project/DPSDA/DPSDA/pe/histogram/nearest_neighbor_backend/faiss.py", line 1, in <module>
+    import faiss
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/__init__.py", line 16, in <module>
+    from .loader import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/loader.py", line 134, in <module>
+    from .swigfaiss import *
+  File "/home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/swigfaiss.py", line 13, in <module>
+    from . import _swigfaiss
+ImportError: /home/qi/anaconda3/envs/DPSDA/lib/python3.10/site-packages/faiss/../../../libfaiss.so: undefined symbol: __libc_single_threaded
+
+01/18/2025 20:02:38 PM [pe] [INFO ]  Please check the installation of the Faiss library: https://microsoft.github.io/DPSDA/getting_started/installation.html#faiss
+01/18/2025 20:02:38 PM [pe] [INFO ]  Using sklearn backend for nearest neighbor search
+01/18/2025 20:02:38 PM [pe] [INFO ]  Histogram: finished computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 20:02:38 PM [pe] [INFO ]  Population: generating 100*1 next synthetic samples
+01/18/2025 20:02:38 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:02:38 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:03:23 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:03:23 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:03:23 PM [pe] [INFO ]  Population: finished generating 100*1 next synthetic samples
+01/18/2025 20:03:23 PM [pe] [INFO ]  Label 1
+01/18/2025 20:03:23 PM [pe] [INFO ]  Histogram: computing nearest neighbors histogram for 100 private samples and 100 synthetic samples
+01/18/2025 20:03:23 PM [pe] [INFO ]  Embedding: PE.EMBEDDING.Inception already computed
+01/18/2025 20:03:23 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:03:23 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1
+01/18/2025 20:04:08 PM [pe] [INFO ]  Created 100 samples
+01/18/2025 20:04:08 PM [pe] [INFO ]  VARIATION API: finished creating variations for 100 samples
+01/18/2025 20:04:08 PM [pe] [INFO ]  Embedding: computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:04:09 PM [pe] [INFO ]  Embedding: finished computing PE.EMBEDDING.Inception for 100/100 samples
+01/18/2025 20:04:09 PM [pe] [INFO ]  VARIATION API: creating variations for 100 samples
+01/18/2025 20:04:09 PM [pe] [INFO ]  VARIATION API parameters: variation_degree=4, timestep_respacing=100, iteration=1

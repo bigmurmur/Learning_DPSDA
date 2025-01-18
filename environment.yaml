@@ -21,9 +21,9 @@ dependencies:
   - brotli-python=1.1.0=py310hf71b8c6_2
   - bzip2=1.0.8=h4bc722e_7
   - c-ares=1.34.3=heb4867d_0
-  - ca-certificates=2024.9.24=h06a4308_0
+  - ca-certificates=2024.12.31=h06a4308_0
   - cairo=1.18.0=hebfffa5_3
-  - certifi=2024.8.30=pyhd8ed1ab_0
+  - certifi=2024.12.14=py310h06a4308_0
   - cffi=1.17.1=py310h8deb56e_0
   - charset-normalizer=3.3.2=pyhd8ed1ab_0
   - click=8.1.7=unix_pyh707e725_0
